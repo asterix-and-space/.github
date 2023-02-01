@@ -1,4 +1,4 @@
-<img src="/blob/main/logo-no-background.png" alt="Asterix and Space logo" width="250" height="156">
+<img src="/logo-no-background.png" alt="Asterix and Space logo" width="250" height="156">
 
 >A young and innovative company specializing in the intersection of Deep Learning and Healthcare.
 
